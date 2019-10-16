@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Built with Ruby on Rails & PostgreSQL on the back-end,  and React (functional components and hooks) for the front-end views. 
 
-Things you may want to cover:
+Recipe Page:
+![Recipe Page](https://github.com/kvsuen/react-rails-recipe/raw/master/docs/recipes_page.PNG)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Credit: https://www.digitalocean.com/community/tutorials/how-to-set-up-a-ruby-on-rails-project-with-a-react-frontend
